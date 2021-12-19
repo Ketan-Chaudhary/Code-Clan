@@ -28,4 +28,7 @@ I'm a Manu Raj Yadav, I created this project for a helping college students with
 
 **Framework:** Bootstrap
 
+## Quick preview
+
+[Tap here for a quick preview of oue project](https://manurajyadav.github.io/Code-Clan/)
 
