@@ -60,5 +60,5 @@ I'm a Manu Raj Yadav, I created this project for a helping college students with
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manuryadav)
 ## Quick preview
 
-[Tap here for a quick preview of oue project](https://manurajyadav.github.io/Code-Clan/)
+[Tap here for a quick preview of our project](https://manurajyadav.github.io/Code-Clan/)
 
